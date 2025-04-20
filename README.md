@@ -1,6 +1,7 @@
 # 🌳 Juego Árboles Binarios
 ## Simulación de combate por turnos con árbol binario de habilidades en Java
-![UAM_TPA_ArbolHabilidades_Logo](https://upload.wikimedia.org/wikipedia/commons/7/7e/Skill_tree_example_diagram.svg)
+![image](https://github.com/user-attachments/assets/ef95c042-1491-4f79-aba1-848f13924ec2)
+
 
 ![Status](https://img.shields.io/badge/Estado-En%20Desarrollo-yellowgreen?style=flat-square)
 ![GitHub license](https://img.shields.io/github/license/usuario/JuegoArbolHabilidades?style=flat-square)
