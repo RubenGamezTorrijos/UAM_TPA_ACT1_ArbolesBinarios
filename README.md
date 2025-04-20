@@ -84,6 +84,8 @@ JuegoArbolHabilidades/
 ├── README.md
 └── Memoria_Tecnica_Juego_Arbol_Habilidades.docx
 ```
+![UEM_TPA_ACT 1_ArbolesBinarios_Diagram](https://github.com/user-attachments/assets/afa4a1cc-e022-407e-8748-a5b9eb500396)
+
 
 ## 🚀 Configuración inicial
 
