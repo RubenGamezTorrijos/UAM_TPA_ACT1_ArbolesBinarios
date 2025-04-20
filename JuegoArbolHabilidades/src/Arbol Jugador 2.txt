@@ -1,0 +1,3 @@
+|Maestría|1|0|0
+L|Arco|3|25|0
+R|Armadura|3|10|0
