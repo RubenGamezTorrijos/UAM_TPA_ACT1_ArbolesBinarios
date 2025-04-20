@@ -104,7 +104,7 @@ Mientras tanto, los archivos de salida compilados se generarán en el `bin` carp
 
 ### 📦 Configurar dependencias
 
-`JAVA PROJECTS` La vista le permite administrar sus dependencias. Puede encontrar más detalles. [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+`JAVA PROJECTS` La vista le permite administrar sus dependencias. Puede encontrar más detalles [aquí](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
 
 ---
 
